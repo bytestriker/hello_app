@@ -1,0 +1,28 @@
+Started GET "/" for 127.0.0.1 at 2018-03-20 10:49:53 -0600
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/pedronavarro/.rvm/gems/ruby-2.4.1/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/pedronavarro/.rvm/gems/ruby-2.4.1/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb (3.4ms)
+Completed 200 OK in 283ms (Views: 10.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-20 11:14:38 -0600
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.0ms)
+Completed 200 OK in 203ms (Views: 5.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-20 11:15:23 -0600
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.0ms)
+Completed 200 OK in 2ms (Views: 0.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-20 11:17:28 -0600
+Processing by ApplicationController#goodbye as HTML
+  Rendering html template
+  Rendered html template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.7ms)
+
+
